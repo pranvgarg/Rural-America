@@ -4,8 +4,6 @@
 
 Welcome to our Data Science Final Project! This project aims to predict the median household income across various counties in the United States using five years of historical data. We utilized the **Atlas of Rural and Small-Town America** dataset from the USDA, which includes comprehensive information on jobs, income, people, and veterans. 
 
-![Income Prediction](https://link-to-your-banner-image.png)
-
 ---
 
 ## 📜 **Project Overview**
@@ -81,7 +79,8 @@ We implemented several models to predict median household income:
   - **HomeOwnership_Education**
   - **Ed5CollegePlus_perCapita**
 
-![Model Performance](https://link-to-model-performance-image.png)
+![Model Performance](<img width="884" alt="image" src="https://github.com/user-attachments/assets/e7e81847-f709-4929-934a-2a6465b88f6a">)
+![US Map for Poverty 0-17](<img width="1010" alt="image" src="https://github.com/user-attachments/assets/0e2d166c-dff6-45b8-b740-2ec411e8425a">)
 
 ---
 
