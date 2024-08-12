@@ -1,8 +1,4 @@
 # RuralAmerica
- 
-Here's a detailed and engaging README file for your GitHub project, incorporating the provided files and the information you've shared:
-
----
 
 # 🌟 **Predicting Household Income in Rural and Small-Town America** 🌟
 
